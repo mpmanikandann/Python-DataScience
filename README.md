@@ -1,2 +1,2 @@
-# Python-DataScience
-This repo contains python data science releated work
+# Python- Notebooks
+This repo contains python Jupyter notebooks releated to machine learning, data mining 
